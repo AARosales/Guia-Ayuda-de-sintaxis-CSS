@@ -17,3 +17,16 @@
 	XHTML.
 	- Antes de CSS la estructura de las páginas era definida
 	mediante tablas.
+
+    ### HTML + CSS
+	- HTML define el marcado de los contenidos, es decir, qué es un
+	párrafo, un titular o una lista.
+	- CSS define el aspecto de todos los contenidos, es decir, color,
+	tamaño y tipo de letra de los párrafos de texto, separación
+	entre titulares y párrafos, tabulación entre los elementos de
+	una lista, etc.
+	- Es la mejor forma de separar los contenidos de la presentación
+	lo que conlleva las siguientes ventajas:
+	- Obliga a crear HTML/XHTML bien definidos (o “semánticos”).
+	- Mejora la accesibilidad, reduce la complejidad de su mantenimiento
+	y permite visualizar el mismo documento en diferentes dispositivos.
