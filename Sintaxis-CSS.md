@@ -6,9 +6,7 @@
  5. Class.
  6. Div y Span.
  7. Uso de las hojas de estilo. 
-
 ##CAPÍTULO 3
-
 ## EJEMPLOS DE REGLAS
  h1, h2, h3 { font-family: helvetica }
  h1 {
@@ -19,7 +17,6 @@ font-family: helvetica;
 font-variant: normal;
 font-style: normal;
 }
-
 ## EJEMPLOS DE REGLAS (II) -
 #### HTTP://WWW.W3SCHOOLS.COM/CSS/DEMO_DEFAULT.HTM
 h1,h2,h3 {
@@ -39,9 +36,7 @@ color:#483d8b;
 }
 table { border-style:outset}
 li {list-style: square;)}
-
 ## CAPÍTULO 4
-
 ## TIPOS DE SELECTORES
 Podemos seleccionar un solo elemento HTML
  ul { list-style: disc; } (lista con círculo relleno)
@@ -54,7 +49,6 @@ Podemos seleccionar un solo elemento HTML
  Utilizar el selector universal *. Se aplica a todos los elementos.
  * { color: green; }
  Si los valores no coinciden, prevalecen las reglas más específicas.
-
 ## HERENCIA EN SELECTORES
 h1 { color: blue ; }
 body { color: black; background: url(texture.gif) white; }
@@ -64,7 +58,6 @@ padre:
  “es” será azul porque <h1> es azul y <em> lo hereda por ser su hijo.
  La página tendría texto negro sobre fondo blanco en el caso de que
 no se encuentre la imagen de fondo “texture.gif”.
-
 ## SELECTORES ADYACENTES
  Seleccionando elementos adyacentes o consecutivos que
 están al mismo nivel (no son hijos unos de otros):
