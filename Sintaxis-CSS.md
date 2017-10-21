@@ -7,7 +7,7 @@
  6. Div y Span.
  7. Uso de las hojas de estilo. 
 
-    ## Introducción al CSS.
+   ## Introducción al CSS.
 
     ### CSS (CASCADING STYLE SHEETS)
 	- Nace en torno a 1995. En 1996 el W3C publica la
@@ -30,3 +30,15 @@
 	- Obliga a crear HTML/XHTML bien definidos (o “semánticos”).
 	- Mejora la accesibilidad, reduce la complejidad de su mantenimiento
 	y permite visualizar el mismo documento en diferentes dispositivos.
+
+   ## ¿Cómo es CSS?
+    
+    ### …cómo es CSS?
+	- Se trata de un fichero de texto plano que contiene “reglas”.
+	- Cada regla tiene dos partes:
+		- Selector (para seleccionar las etiquetas HTML sobre las que actúa).
+	        - Descriptor (para decir qué hace con ellas)
+		   h1: {color:green; font-family:Verdana}
+	- El fichero CSS es una lista de reglas (pares selector+descriptor)
+		- Los selectores pueden ser una o varias etiquetas HTML.
+		- Los descriptores están definidos en CSS, hay una larga lista.
