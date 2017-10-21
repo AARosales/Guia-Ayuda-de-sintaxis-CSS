@@ -18,7 +18,7 @@
 	- Antes de CSS la estructura de las páginas era definida
 	mediante tablas.
 
-    ### HTML + CSS
+   ### HTML + CSS
 	- HTML define el marcado de los contenidos, es decir, qué es un
 	párrafo, un titular o una lista.
 	- CSS define el aspecto de todos los contenidos, es decir, color,
@@ -33,7 +33,7 @@
 
    ## ¿Cómo es CSS?
     
-    ### …cómo es CSS?
+    ### ...cómo es CSS?
 	- Se trata de un fichero de texto plano que contiene “reglas”.
 	- Cada regla tiene dos partes:
 		- Selector (para seleccionar las etiquetas HTML sobre las que actúa).
@@ -50,4 +50,4 @@
 	           propiedad: valor;
 	           …
 	           propiedad: valor;
-	           }
+	           } 
