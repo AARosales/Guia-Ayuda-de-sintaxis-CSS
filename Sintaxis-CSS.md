@@ -42,3 +42,12 @@
 	- El fichero CSS es una lista de reglas (pares selector+descriptor)
 		- Los selectores pueden ser una o varias etiquetas HTML.
 		- Los descriptores están definidos en CSS, hay una larga lista.
+
+    ### ...cómo es CSS? (II)
+	- Las reglas CSS:
+		- selector {propiedad: valor}
+		- selector, selector, …, selector {
+	           propiedad: valor;
+	           …
+	           propiedad: valor;
+	           }
