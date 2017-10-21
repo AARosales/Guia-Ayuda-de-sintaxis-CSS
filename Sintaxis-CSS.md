@@ -7,8 +7,9 @@
  6. Div y Span.
  7. Uso de las hojas de estilo. 
 
-    ##Introducción al CSS.
-    ###CSS (CASCADING STYLE SHEETS)
+    ## Introducción al CSS.
+
+    ### CSS (CASCADING STYLE SHEETS)
 	- Nace en torno a 1995. En 1996 el W3C publica la
 	primera recomendación oficial “CSS nivel 1”.
 	- Actualmente se trabaja en la versión CSS3.
