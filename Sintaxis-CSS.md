@@ -9,7 +9,7 @@
 
    ## Introducción al CSS.
 
-    ### CSS (CASCADING STYLE SHEETS)
+   #### CSS (CASCADING STYLE SHEETS)
 	- Nace en torno a 1995. En 1996 el W3C publica la
 	primera recomendación oficial “CSS nivel 1”.
 	- Actualmente se trabaja en la versión CSS3.
@@ -18,7 +18,7 @@
 	- Antes de CSS la estructura de las páginas era definida
 	mediante tablas.
 
-   ### HTML + CSS
+   #### HTML + CSS
 	- HTML define el marcado de los contenidos, es decir, qué es un
 	párrafo, un titular o una lista.
 	- CSS define el aspecto de todos los contenidos, es decir, color,
@@ -33,7 +33,7 @@
 
    ## ¿Cómo es CSS?
     
-    ### ...cómo es CSS?
+   #### ...cómo es CSS?
 	- Se trata de un fichero de texto plano que contiene “reglas”.
 	- Cada regla tiene dos partes:
 		- Selector (para seleccionar las etiquetas HTML sobre las que actúa).
@@ -43,7 +43,7 @@
 		- Los selectores pueden ser una o varias etiquetas HTML.
 		- Los descriptores están definidos en CSS, hay una larga lista.
 
-    ### ...cómo es CSS? (II)
+   #### ...cómo es CSS? (II)
 	- Las reglas CSS:
 		- selector {propiedad: valor}
 		- selector, selector, …, selector {
