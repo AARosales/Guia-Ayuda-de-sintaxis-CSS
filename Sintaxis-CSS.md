@@ -85,3 +85,30 @@
 	- HTML
 	 <p class = “importante grande coloreado”>sale verde </p>	
 	 <p class = “importante grande ”>NO sale verde</p>
+
+## Div y Span.
+
+   #### LAS ETIQUETAS <DIV> Y <SPAN>
+	- <div> y <span> son etiquetas HTML que permiten aplicar
+	  reglas CSS a diferentes elementos:
+	  - <div> asegura que habrá una nueva línea antes y después del
+	    bloque.
+	  - <span> no añade líneas antes ni después, solo espacios simples.
+	    Ejemplo:
+	  - CSS
+	     div { background-color: #66FFFF; }
+	     span.color { color: red; }
+	  - HTML
+	     <div>Este div se trata como un párafo con fondo de color pero
+	     <span class = “color”>este span aparece con letras
+	     rojas.</span></div>
+
+   #### EL SELECTOR ID
+	- Este selector se usa para aplicar estilo a un elemento
+	  concreto.
+	  - CSS
+	    #cabecera { width: 740px; top: 0px; }
+	  - HTML
+	    <div id = “cabecera”>Esta división o “caja” tiene que aparecer
+	    con un ancho de 740px y situado en la parte superior</div>
+
