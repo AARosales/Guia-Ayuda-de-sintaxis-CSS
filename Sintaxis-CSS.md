@@ -76,3 +76,12 @@
 	   <h1>no aparece de ni rojo ni verde</h1>
 	   <h1 class = “coloreado”>aparece verde</h1>
 	   <p class = “coloreado”>aparece rojo</p>
+
+#### EL ATRIBUTO CLASS (III)
+	- Subconjunto del atributo “class”:
+	  - CSS
+	   p.importante.coloreado { color: green; }
+	   _Regla:_ que sea al menos de la clase importante y coloreado.
+	- HTML
+	 <p class = “importante grande coloreado”>sale verde </p>	
+	 <p class = “importante grande ”>NO sale verde</p>
